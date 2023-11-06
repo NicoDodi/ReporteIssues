@@ -8,3 +8,9 @@ function sumaDeLista(l, n){
    }
    return n/suma;
 }
+
+array1 = [2,2,2];
+//array2 = [0,0];
+
+console.log(sumaDeLista(array, 6));
+//console.log(sumaDeLista(array2, 6));
